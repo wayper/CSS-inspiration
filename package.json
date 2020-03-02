@@ -1,0 +1,27 @@
+{
+  "name": "css-inspiration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayper/CSS-inspiration.git"
+  },
+  "author": "Dima Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayper/CSS-inspiration/issues"
+  },
+  "homepage": "https://github.com/wayper/CSS-inspiration#readme"
+}
